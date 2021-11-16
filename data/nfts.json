@@ -1,0 +1,326 @@
+[
+  {
+    "id": 361,
+    "name": "Ergonomic Concrete Tuna",
+    "price": 0.726,
+    "owner": {
+      "id": 448,
+      "username": "Justen_King18",
+      "email": "Shanelle68@yahoo.com",
+      "provider": null,
+      "confirmed": true,
+      "blocked": null,
+      "role": 1,
+      "created_at": "2021-10-22T08:29:23.382Z",
+      "updated_at": "2021-10-22T08:29:23.391Z",
+      "avatar": {
+        "id": 791,
+        "name": "0xa6dbe6b4f8e2905c26e123ec6fd08a8f7200dbc1.jpg",
+        "alternativeText": null,
+        "caption": null,
+        "width": 200,
+        "height": 300,
+        "formats": {
+          "thumbnail": {
+            "name": "thumbnail_0xa6dbe6b4f8e2905c26e123ec6fd08a8f7200dbc1.jpg",
+            "hash": "thumbnail_0xa6dbe6b4f8e2905c26e123ec6fd08a8f7200dbc1_64120a76f4",
+            "ext": ".jpg",
+            "mime": "image/jpeg",
+            "width": 104,
+            "height": 156,
+            "size": 5.32,
+            "path": null,
+            "url": "https://nft-auction.herokuapp.com/uploads/thumbnail_0xa6dbe6b4f8e2905c26e123ec6fd08a8f7200dbc1_64120a76f4.jpg"
+          }
+        },
+        "hash": "0xa6dbe6b4f8e2905c26e123ec6fd08a8f7200dbc1_64120a76f4",
+        "ext": ".jpg",
+        "mime": "image/jpeg",
+        "size": 13.23,
+        "url": "https://nft-auction.herokuapp.com/uploads/0xa6dbe6b4f8e2905c26e123ec6fd08a8f7200dbc1_64120a76f4.jpg",
+        "previewUrl": null,
+        "provider": "local",
+        "provider_metadata": null,
+        "created_at": "2021-10-22T08:29:18.821Z",
+        "updated_at": "2021-10-22T08:29:18.821Z"
+      }
+    },
+    "likes": 1205,
+    "token_id": "0x7d9debcf75a71bbb5c533804c9845d313fe3f6aa.jpg",
+    "currency": "ETH",
+    "featured": true,
+    "auction_end": "2022-10-11T12:04:48.511Z",
+    "published_at": "2021-10-22T08:29:07.091Z",
+    "created_at": "2021-10-22T08:29:07.093Z",
+    "updated_at": "2021-10-22T08:29:23.386Z",
+    "mediaUrl": "https://nft-auction.herokuapp.com/uploads/thumbnail_0xc17ff6096ea9488ec3ec1cfbce682c6c9aa5ccbe_5506196823.jpg",
+    "source": {
+      "id": 720,
+      "name": "0x7d9debcf75a71bbb5c533804c9845d313fe3f6aa.jpg",
+      "alternativeText": null,
+      "caption": null,
+      "width": 400,
+      "height": 225,
+      "formats": {
+        "thumbnail": {
+          "name": "thumbnail_0x7d9debcf75a71bbb5c533804c9845d313fe3f6aa.jpg",
+          "hash": "thumbnail_0x7d9debcf75a71bbb5c533804c9845d313fe3f6aa_ec98dd79b9",
+          "ext": ".jpg",
+          "mime": "image/jpeg",
+          "width": 245,
+          "height": 138,
+          "size": 3.67,
+          "path": null,
+          "url": "https://nft-auction.herokuapp.com/uploads/thumbnail_0x7d9debcf75a71bbb5c533804c9845d313fe3f6aa_ec98dd79b9.jpg"
+        }
+      },
+      "hash": "0x7d9debcf75a71bbb5c533804c9845d313fe3f6aa_ec98dd79b9",
+      "ext": ".jpg",
+      "mime": "image/jpeg",
+      "size": 7.49,
+      "url": "https://nft-auction.herokuapp.com/uploads/0x7d9debcf75a71bbb5c533804c9845d313fe3f6aa_ec98dd79b9.jpg",
+      "previewUrl": null,
+      "provider": "local",
+      "provider_metadata": null,
+      "created_at": "2021-10-22T08:29:03.948Z",
+      "updated_at": "2021-10-22T08:29:03.948Z"
+    },
+    "details": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas metus risus, suscipit sit amet aliquam ut, vehicula vitae ipsum. Duis viverra lorem lacus, non ullamcorper neque laoreet vitae. Nunc a posuere velit. Etiam sed commodo tortor, ac pretium libero. Integer in feugiat justo. Proin ut dignissim risus. Proin dignissim ante pharetra enim tempus varius. Nullam justo elit, mattis eu lacus ut, volutpat vestibulum dui. Morbi varius magna luctus tellus rutrum ullamcorper.",
+    "bids": [
+      {
+        "user": {
+          "avatar": "/images/avatar.png",
+          "name": "hrisi",
+          "verified": true
+        },
+        "amount": 30,
+        "date": "2021-10-22T08:29:23.382Z"
+      },
+      {
+        "user": {
+          "avatar": "/images/avatar.png",
+          "name": "maxi",
+          "verified": true
+        },
+        "amount": 1000,
+        "date": "2021-10-22T08:29:23.382Z"
+      }
+    ]
+  },
+  {
+    "id": 362,
+    "name": "Handmade Plastic Fish",
+    "price": 0.652,
+    "owner": {
+      "id": 407,
+      "username": "Roman69",
+      "email": "Calista.Smitham@gmail.com",
+      "provider": null,
+      "confirmed": true,
+      "blocked": null,
+      "role": 1,
+      "created_at": "2021-10-22T08:29:20.417Z",
+      "updated_at": "2021-10-22T08:29:20.427Z",
+      "avatar": {
+        "id": 795,
+        "name": "0xf85ad8f23ff9d723b24d530897f23fbecfaab7ea.jpg",
+        "alternativeText": null,
+        "caption": null,
+        "width": 200,
+        "height": 200,
+        "formats": {
+          "thumbnail": {
+            "name": "thumbnail_0xf85ad8f23ff9d723b24d530897f23fbecfaab7ea.jpg",
+            "hash": "thumbnail_0xf85ad8f23ff9d723b24d530897f23fbecfaab7ea_c3596e7049",
+            "ext": ".jpg",
+            "mime": "image/jpeg",
+            "width": 156,
+            "height": 156,
+            "size": 2.26,
+            "path": null,
+            "url": "https://nft-auction.herokuapp.com/uploads/thumbnail_0xf85ad8f23ff9d723b24d530897f23fbecfaab7ea_c3596e7049.jpg"
+          }
+        },
+        "hash": "0xf85ad8f23ff9d723b24d530897f23fbecfaab7ea_c3596e7049",
+        "ext": ".jpg",
+        "mime": "image/jpeg",
+        "size": 2.8,
+        "url": "https://nft-auction.herokuapp.com/uploads/0xf85ad8f23ff9d723b24d530897f23fbecfaab7ea_c3596e7049.jpg",
+        "previewUrl": null,
+        "provider": "local",
+        "provider_metadata": null,
+        "created_at": "2021-10-22T08:29:19.142Z",
+        "updated_at": "2021-10-22T08:29:19.142Z"
+      }
+    },
+    "likes": 4589,
+    "token_id": "0x3fdef49698ee881daf37b0cf00d1a301fa60cb97.jpg",
+    "currency": "ETH",
+    "featured": true,
+    "auction_end": "2022-09-02T20:43:19.149Z",
+    "published_at": "2021-10-22T08:29:07.091Z",
+    "created_at": "2021-10-22T08:29:07.121Z",
+    "updated_at": "2021-10-22T08:29:20.422Z",
+    "mediaUrl": "https://nft-auction.herokuapp.com/uploads/thumbnail_0xc17ff6096ea9488ec3ec1cfbce682c6c9aa5ccbe_5506196823.jpg",
+    "source": {
+      "id": 738,
+      "name": "0x3fdef49698ee881daf37b0cf00d1a301fa60cb97.jpg",
+      "alternativeText": null,
+      "caption": null,
+      "width": 400,
+      "height": 267,
+      "formats": {
+        "thumbnail": {
+          "name": "thumbnail_0x3fdef49698ee881daf37b0cf00d1a301fa60cb97.jpg",
+          "hash": "thumbnail_0x3fdef49698ee881daf37b0cf00d1a301fa60cb97_7088c25bc7",
+          "ext": ".jpg",
+          "mime": "image/jpeg",
+          "width": 234,
+          "height": 156,
+          "size": 6.37,
+          "path": null,
+          "url": "https://nft-auction.herokuapp.com/uploads/thumbnail_0x3fdef49698ee881daf37b0cf00d1a301fa60cb97_7088c25bc7.jpg"
+        }
+      },
+      "hash": "0x3fdef49698ee881daf37b0cf00d1a301fa60cb97_7088c25bc7",
+      "ext": ".jpg",
+      "mime": "image/jpeg",
+      "size": 12.69,
+      "url": "https://nft-auction.herokuapp.com/uploads/0x3fdef49698ee881daf37b0cf00d1a301fa60cb97_7088c25bc7.jpg",
+      "previewUrl": null,
+      "provider": "local",
+      "provider_metadata": null,
+      "created_at": "2021-10-22T08:29:04.479Z",
+      "updated_at": "2021-10-22T08:29:04.479Z"
+    },
+    "details": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas metus risus, suscipit sit amet aliquam ut, vehicula vitae ipsum. Duis viverra lorem lacus, non ullamcorper neque laoreet vitae. Nunc a posuere velit. Etiam sed commodo tortor, ac pretium libero. Integer in feugiat justo. Proin ut dignissim risus. Proin dignissim ante pharetra enim tempus varius. Nullam justo elit, mattis eu lacus ut, volutpat vestibulum dui. Morbi varius magna luctus tellus rutrum ullamcorper.",
+    "bids": [
+      {
+        "user": {
+          "avatar": "/images/avatar.png",
+          "name": "hrisi",
+          "verified": true
+        },
+        "amount": 30,
+        "date": "2021-10-22T08:29:23.382Z"
+      },
+      {
+        "user": {
+          "avatar": "/images/avatar.png",
+          "name": "maxi",
+          "verified": true
+        },
+        "amount": 1000,
+        "date": "2021-10-22T08:29:23.382Z"
+      }
+    ]
+  },
+  {
+    "id": 363,
+    "name": "Refined Metal Mouse",
+    "price": 0.903,
+    "owner": {
+      "id": 406,
+      "username": "Sheridan_Paucek29",
+      "email": "Justen_Johns87@yahoo.com",
+      "provider": null,
+      "confirmed": true,
+      "blocked": null,
+      "role": 1,
+      "created_at": "2021-10-22T08:29:20.382Z",
+      "updated_at": "2021-10-22T08:29:20.392Z",
+      "avatar": {
+        "id": 791,
+        "name": "0xa6dbe6b4f8e2905c26e123ec6fd08a8f7200dbc1.jpg",
+        "alternativeText": null,
+        "caption": null,
+        "width": 200,
+        "height": 300,
+        "formats": {
+          "thumbnail": {
+            "name": "thumbnail_0xa6dbe6b4f8e2905c26e123ec6fd08a8f7200dbc1.jpg",
+            "hash": "thumbnail_0xa6dbe6b4f8e2905c26e123ec6fd08a8f7200dbc1_64120a76f4",
+            "ext": ".jpg",
+            "mime": "image/jpeg",
+            "width": 104,
+            "height": 156,
+            "size": 5.32,
+            "path": null,
+            "url": "https://nft-auction.herokuapp.com/uploads/thumbnail_0xa6dbe6b4f8e2905c26e123ec6fd08a8f7200dbc1_64120a76f4.jpg"
+          }
+        },
+        "hash": "0xa6dbe6b4f8e2905c26e123ec6fd08a8f7200dbc1_64120a76f4",
+        "ext": ".jpg",
+        "mime": "image/jpeg",
+        "size": 13.23,
+        "url": "https://nft-auction.herokuapp.com/uploads/0xa6dbe6b4f8e2905c26e123ec6fd08a8f7200dbc1_64120a76f4.jpg",
+        "previewUrl": null,
+        "provider": "local",
+        "provider_metadata": null,
+        "created_at": "2021-10-22T08:29:18.821Z",
+        "updated_at": "2021-10-22T08:29:18.821Z"
+      }
+    },
+    "likes": 4478,
+    "token_id": "0x40c85fd1e5ffbfb321459617ccf6c2d4b0d3ec96.jpg",
+    "currency": "ETH",
+    "featured": true,
+    "auction_end": "2021-12-11T17:43:58.786Z",
+    "published_at": "2021-10-22T08:29:07.091Z",
+    "created_at": "2021-10-22T08:29:07.262Z",
+    "updated_at": "2021-10-22T08:29:20.388Z",
+    "mediaUrl": "https://nft-auction.herokuapp.com/uploads/thumbnail_0xc17ff6096ea9488ec3ec1cfbce682c6c9aa5ccbe_5506196823.jpg",
+    "source": {
+      "id": 761,
+      "name": "0x40c85fd1e5ffbfb321459617ccf6c2d4b0d3ec96.jpg",
+      "alternativeText": null,
+      "caption": null,
+      "width": 400,
+      "height": 249,
+      "formats": {
+        "thumbnail": {
+          "name": "thumbnail_0x40c85fd1e5ffbfb321459617ccf6c2d4b0d3ec96.jpg",
+          "hash": "thumbnail_0x40c85fd1e5ffbfb321459617ccf6c2d4b0d3ec96_5292f80841",
+          "ext": ".jpg",
+          "mime": "image/jpeg",
+          "width": 245,
+          "height": 153,
+          "size": 11.91,
+          "path": null,
+          "url": "https://nft-auction.herokuapp.com/uploads/thumbnail_0x40c85fd1e5ffbfb321459617ccf6c2d4b0d3ec96_5292f80841.jpg"
+        }
+      },
+      "hash": "0x40c85fd1e5ffbfb321459617ccf6c2d4b0d3ec96_5292f80841",
+      "ext": ".jpg",
+      "mime": "image/jpeg",
+      "size": 23.53,
+      "url": "https://nft-auction.herokuapp.com/uploads/0x40c85fd1e5ffbfb321459617ccf6c2d4b0d3ec96_5292f80841.jpg",
+      "previewUrl": null,
+      "provider": "local",
+      "provider_metadata": null,
+      "created_at": "2021-10-22T08:29:05.147Z",
+      "updated_at": "2021-10-22T08:29:05.147Z",
+      "details": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas metus risus, suscipit sit amet aliquam ut, vehicula vitae ipsum. Duis viverra lorem lacus, non ullamcorper neque laoreet vitae. Nunc a posuere velit. Etiam sed commodo tortor, ac pretium libero. Integer in feugiat justo. Proin ut dignissim risus. Proin dignissim ante pharetra enim tempus varius. Nullam justo elit, mattis eu lacus ut, volutpat vestibulum dui. Morbi varius magna luctus tellus rutrum ullamcorper.",
+      "bids": [
+        {
+          "user": {
+            "avatar": "/images/avatar.png",
+            "name": "hrisi",
+            "verified": true
+          },
+          "amount": 30,
+          "date": "2021-10-22T08:29:23.382Z"
+        },
+        {
+          "user": {
+            "avatar": "/images/avatar.png",
+            "name": "maxi",
+            "verified": true
+          },
+          "amount": 1000,
+          "date": "2021-10-22T08:29:23.382Z"
+        }
+      ]
+    }
+  }
+]
